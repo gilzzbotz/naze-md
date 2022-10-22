@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.owner = ['6285730794089']
+global.ownernomer = "6285730794089"
+global.premium = ['6285730794089']
+global.packname = 'Sticker By Gilzz-MD'
+global.author = 'Gilzz Dev'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -62,13 +62,13 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
-global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
-global.botname = 'Naze Dev'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE'
+global.mygit = 'https://github.com/gilzBotz'
+global.myweb = 'https://linktr.ee/gilzzbotz'
+global.myytv = 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'
+global.mygc = "https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy"
+global.botname = 'Gilzz - MD'
+global.akulaku = 'Bot By Gilzz'
+global.ytname = 'YT OFFICIAL GILZZ BOTZ'
 
 
 let file = require.resolve(__filename)
